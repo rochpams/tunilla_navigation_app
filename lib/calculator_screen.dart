@@ -229,7 +229,7 @@ class _CalculatorScreenState extends State<CalculatorScreen> {
             const SizedBox(height: 24),
 
             const Text(
-              'Created by: YOUR NAME\nSection: YOUR SECTION',
+              'Created by: Rochel P. Tunilla\nSection: CCE106L',
               textAlign: TextAlign.center,
             ),
           ],
